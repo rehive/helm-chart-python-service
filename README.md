@@ -1,2 +1,2 @@
 # helm-chart-python-service
-A Kubernetes Helm chart for Rehive python service deployments. 
+A Kubernetes Helm chart for Rehive service deployments. 
